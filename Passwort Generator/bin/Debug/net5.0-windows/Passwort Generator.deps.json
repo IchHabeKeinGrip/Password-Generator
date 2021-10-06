@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Passwort Generator/1.0.0": {
+        "runtime": {
+          "Passwort Generator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Passwort Generator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
